@@ -1,0 +1,28 @@
+/* Custom CSS */
+
+/* Customizing the navbar */
+.navbar {
+  background-color: #cfcfcf;
+}
+
+/* Customizing the primary button */
+.btn-primary {
+  background-color: #fd8c00;
+  border-color: #fd00d7;
+}
+
+.btn-primary:hover {
+  background-color: #fa0506;
+  border-color: #c9fd00;
+}
+
+/* Customizing the secondary button */
+.btn-secondary {
+  background-color: rgba(39, 239, 39, 0.87);
+  border-color: #c9fd00;
+}
+
+.btn-secondary:hover {
+  background-color: #fd00d7;
+  border-color: rgba(51, 1, 151, 0.87);
+}
